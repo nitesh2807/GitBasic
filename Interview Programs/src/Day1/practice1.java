@@ -26,6 +26,8 @@ public class practice1 {
 		
 		b=a+b-(a=b);
 		System.out.println("After Swapping"+a+" "+b);
+		
+		System.out.println("hi");
 
 	}
 
