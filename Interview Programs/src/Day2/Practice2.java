@@ -21,6 +21,7 @@ if(org_str.equals(rev)) {
 }else {
 	System.out.println("String is not Palindrome : "+org_str);
 }
+System.out.println("executed");
 
 	}
 
