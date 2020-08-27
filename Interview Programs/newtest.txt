@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is new test
+=======
+writing new test
+>>>>>>> branch 'Test' of https://github.com/nitesh2807/GitBasic.git
